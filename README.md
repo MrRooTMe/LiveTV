@@ -1,3 +1,1 @@
-LiveTV
-
-This is the offical repository of LiveTV app (Code Availability will be soon.)
+LiveTV - Just a nice app
